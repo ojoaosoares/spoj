@@ -31,8 +31,11 @@ int main() {
                     t = 0;
                 }
             }
+
+        free(matriz[i]);
             
     }
+    free(matriz);
     if(t > maior) maior = t;
 
     printf("%d\n",maior);
