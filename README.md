@@ -4,7 +4,7 @@ This repository stores my solutions for Spoj problems.
 
 ## Spoj Profile
 
-My Spoj profile: [leviathans](https://br.spoj.com/users/leviathan_9/)
+My Spoj profile: [leviathan_9](https://br.spoj.com/users/leviathan_9/)
 
 ## Repository Structure
 
