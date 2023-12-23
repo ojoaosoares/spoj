@@ -1,6 +1,6 @@
-# Spoj Brasil Solutions Repository
+# Spoj Solutions Repository
 
-This repository stores my solutions for Spoj Brasil problems.
+This repository stores my solutions for Spoj problems.
 
 ## Spoj Profile
 
