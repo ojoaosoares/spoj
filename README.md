@@ -18,7 +18,7 @@ Feel free to explore the folders and review the solutions. If you have any quest
 ## Contact
 
 - [Spoj Profile](https://br.spoj.com/users/leviathan_9/)
-- [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
+- [Linkedin](http://www.linkedin.com/in/ojoaovsoares)
 
 ## Contributions
 
